@@ -1,0 +1,212 @@
+[
+  {
+    "categoria": "rede",
+    "problema": "internet lenta",
+    "causas": [
+      "roteador sobrecarregado",
+      "sinal fraco",
+      "dns lento"
+    ],
+    "solucoes": [
+      "reiniciar roteador",
+      "trocar DNS",
+      "aproximar do roteador"
+    ]
+  },
+  {
+    "categoria": "rede",
+    "problema": "wifi desconectando",
+    "causas": [
+      "interferência de sinal",
+      "roteador antigo",
+      "driver de rede desatualizado"
+    ],
+    "solucoes": [
+      "reiniciar roteador",
+      "atualizar driver de rede",
+      "mudar canal do wifi"
+    ]
+  },
+  {
+    "categoria": "rede",
+    "problema": "sem acesso à internet",
+    "causas": [
+      "cabo desconectado",
+      "falha no provedor",
+      "configuração de IP inválida"
+    ],
+    "solucoes": [
+      "verificar cabos",
+      "reiniciar modem",
+      "renovar configuração de IP"
+    ]
+  },
+  {
+    "categoria": "software",
+    "problema": "pc travando",
+    "causas": [
+      "memória cheia",
+      "programas em segundo plano",
+      "superaquecimento"
+    ],
+    "solucoes": [
+      "fechar programas",
+      "limpar arquivos temporários",
+      "reiniciar computador"
+    ]
+  },
+  {
+    "categoria": "software",
+    "problema": "computador lento",
+    "causas": [
+      "muitos programas iniciando com o sistema",
+      "disco cheio",
+      "baixo desempenho do hardware"
+    ],
+    "solucoes": [
+      "desativar programas de inicialização",
+      "liberar espaço no disco",
+      "reiniciar o computador"
+    ]
+  },
+  {
+    "categoria": "software",
+    "problema": "erro ao abrir programa",
+    "causas": [
+      "arquivos corrompidos",
+      "programa desatualizado",
+      "falta de permissões"
+    ],
+    "solucoes": [
+      "reinstalar o programa",
+      "executar como administrador",
+      "atualizar software"
+    ]
+  },
+  {
+    "categoria": "software",
+    "problema": "tela azul",
+    "causas": [
+      "driver incompatível",
+      "falha de memória RAM",
+      "problemas no sistema operacional"
+    ],
+    "solucoes": [
+      "atualizar drivers",
+      "verificar memória RAM",
+      "restaurar sistema"
+    ]
+  },
+  {
+    "categoria": "software",
+    "problema": "programa fechando sozinho",
+    "causas": [
+      "falta de memória",
+      "erro interno do aplicativo",
+      "conflito de software"
+    ],
+    "solucoes": [
+      "reinstalar aplicativo",
+      "atualizar sistema",
+      "fechar programas em segundo plano"
+    ]
+  },
+  {
+    "categoria": "hardware",
+    "problema": "notebook esquentando",
+    "causas": [
+      "acúmulo de poeira",
+      "cooler com defeito",
+      "uso intenso do processador"
+    ],
+    "solucoes": [
+      "limpar ventoinhas",
+      "trocar pasta térmica",
+      "usar base refrigerada"
+    ]
+  },
+  {
+    "categoria": "hardware",
+    "problema": "computador não liga",
+    "causas": [
+      "fonte defeituosa",
+      "cabo de energia desconectado",
+      "problema na placa-mãe"
+    ],
+    "solucoes": [
+      "verificar cabo de energia",
+      "testar outra fonte",
+      "levar para assistência técnica"
+    ]
+  },
+  {
+    "categoria": "hardware",
+    "problema": "hd fazendo barulho",
+    "causas": [
+      "desgaste físico",
+      "setores defeituosos",
+      "falha mecânica"
+    ],
+    "solucoes": [
+      "fazer backup imediato",
+      "verificar saúde do disco",
+      "substituir HD"
+    ]
+  },
+  {
+    "categoria": "hardware",
+    "problema": "usb não reconhece",
+    "causas": [
+      "driver ausente",
+      "porta USB defeituosa",
+      "dispositivo incompatível"
+    ],
+    "solucoes": [
+      "reinstalar driver USB",
+      "testar outra porta",
+      "reiniciar computador"
+    ]
+  },
+  {
+    "categoria": "hardware",
+    "problema": "memória ram insuficiente",
+    "causas": [
+      "quantidade baixa de RAM",
+      "muitos programas abertos",
+      "uso excessivo do navegador"
+    ],
+    "solucoes": [
+      "fechar programas desnecessários",
+      "aumentar memória RAM",
+      "reduzir abas abertas"
+    ]
+  },
+  {
+    "categoria": "rede",
+    "problema": "alto ping em jogos",
+    "causas": [
+      "congestionamento da rede",
+      "wifi instável",
+      "servidor distante"
+    ],
+    "solucoes": [
+      "usar cabo de rede",
+      "fechar downloads",
+      "trocar servidor do jogo"
+    ]
+  },
+  {
+    "categoria": "software",
+    "problema": "windows não atualiza",
+    "causas": [
+      "serviço de atualização corrompido",
+      "falta de espaço",
+      "erro de sistema"
+    ],
+    "solucoes": [
+      "reiniciar serviço do Windows Update",
+      "liberar espaço",
+      "usar solucionador de problemas"
+    ]
+  }
+]
